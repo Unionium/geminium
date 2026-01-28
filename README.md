@@ -6,7 +6,7 @@ A lightweight Gemini protocol server with Python script execution capabilities.
 
 - **Full Gemini Protocol Compliance**: TLS encryption, proper status codes, and MIME types
 - **Python Script Execution**: Run `.py` files directly as CGI-like scripts
-- **Static File Serving**: Serve `.gemini` files with automatic "Powered by Geminium" footer
+- **Static File Serving**: Serve `.gemini` files
 - **Simple Configuration**: Certificates and files in local directory
 - **English/Russian**: Multilingual codebase with English as primary
 
